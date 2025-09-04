@@ -8,6 +8,7 @@ img{
 body{
     background-color: pink;
     font-family: sans-serif;
+    justify-content:center;
 }
 div{
     background-color: #FFF8AC;
@@ -26,7 +27,6 @@ h4{
 
 }
 a{
-    justify-content:center;
     color:white;
     background-color:black;
     padding:50px;
@@ -34,6 +34,7 @@ a{
     border-radius:5px;
     font-size:50px;
 }
+
 
 
 
