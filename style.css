@@ -8,7 +8,7 @@ img{
 body{
     background-color: pink;
     font-family: sans-serif;
-    justify-content:center;
+    text-align:center;
 }
 div{
     background-color: #FFF8AC;
@@ -31,9 +31,11 @@ a{
     background-color:black;
     padding:50px;
     border:5px solid white;
-    border-radius:5px;
+    border-radius:25px;
     font-size:50px;
+    margin:300px;
 }
+
 
 
 
